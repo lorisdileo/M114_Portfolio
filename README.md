@@ -92,3 +92,37 @@ https://www.compart.com/de/unicode/category/So
 ## B_DATEN_KOMPRIMIEREN (Verlustlos komprimieren)
 https://juergarnold.ch/EDU/114/B_DATEN_KOMPRIMIEREN.pdf
 https://juergarnold.ch/EDU/114/B_DATEN_KOMPRIMIEREN_ANNEX.pdf
+
+
+### 1. Huffman-Algorythmus
+- Datenbanken
+- Dateisysteme
+- Compilerbau
+- Künstliche Intelligenz und Entscheidungsfindung
+- Computergrafik
+
+
+Ein binärer Baum hat höchstens zwei Kinder pro Knoten, während ein nicht-binärer Baum mehr als zwei Kinder haben kann. Diese Struktur ermöglicht eine effiziente Manipulation und Durchquerung, was für binäre Baumalgorithmen wie den Huffman-Algorithmus wichtig ist.
+
+### 2. Huffman-Algorythmus
+         Informatik
+         /       \
+      n:2       I:1
+                /   \
+             a:1    t:1
+            /  \    / \
+          o:1 r:1 m:1 k:1
+               /
+             f:1
+
+Codetabelle:
+I: 0
+n: 10
+f: 1100
+o: 1101
+r: 1110
+m: 1111
+a: 11100
+t: 11101
+i: 11110
+k: 11111
